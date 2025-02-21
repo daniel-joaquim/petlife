@@ -1,6 +1,11 @@
-# Petlife
+# Petshop Application
 
-PT-BR: Este projeto tem como objetivo desenvolver um site para uma clínica veterinária/pet shop fictícia. O projeto é totalmente focado no aprendizado.
+A simple refund application using HTML, CSS, and JavaScript.
 
+<p align="left">
+     <a href="https://petlife-dnl.netlify.app/">📱 Visit this Project</a><br>
+</p>
 
-EN: This project have as objective develop a website for a veterinary clinic/ pet shop fictitious. The project is entirely focused in learning.
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
