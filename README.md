@@ -8,4 +8,4 @@ A simple refund application using HTML, CSS, and JavaScript.
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,c#)](https://skillicons.dev)
